@@ -1,0 +1,78 @@
+{
+  "title": "Press Space or double-click to edit",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "kצהצהצה",
+      "id": 5,
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      },
+      "ideas": {}
+    },
+    "11": {
+      "title": "feefdvfdv",
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      },
+      "ideas": {}
+    },
+    "21": {
+      "title": "efvefvwefvefv",
+      "id": 3,
+      "attr": {
+        "style": {
+          "background": "#ffff00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "fhgherthertherh",
+          "id": "6.gd7e0eabf83857a4ed",
+          "attr": {
+            "style": {
+              "background": "#00ccff"
+            }
+          },
+          "ideas": {}
+        }
+      }
+    },
+    "31": {
+      "title": "rthrthrthrth",
+      "id": "7.gd67441f8d2fd5be79",
+      "attr": {
+        "style": {
+          "background": "#333333"
+        }
+      },
+      "ideas": {}
+    },
+    "-1": {
+      "title": "efwqefvwefvefv",
+      "id": 4,
+      "attr": {
+        "style": {
+          "background": "#c0c0c0"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "gjgdjgdjtzjtzjtz",
+          "id": "8.gd7e0eabf83857a4ed",
+          "attr": {
+            "style": {
+              "background": "#333399"
+            }
+          }
+        }
+      }
+    }
+  }
+}
