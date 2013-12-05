@@ -1,5 +1,25 @@
 {
   "title": "Press Space or double-click to edit",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "rtherthrth",
+      "id": "2.gd61bbffcdc8f363f5",
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "-1": {
+      "title": "ndfndfghnnhghn",
+      "id": "3.gd61bbffcdc8f363f5",
+      "attr": {
+        "style": {
+          "background": "#00ffff"
+        }
+      }
+    }
+  }
 }
